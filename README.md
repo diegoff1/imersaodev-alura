@@ -1,2 +1,2 @@
 # imersaodev-alura
-Fazendo a imversão dev da Aluna. Iniciante
+Sou iniciante em dev e estou fazendo a imversão dev da Alura. 
